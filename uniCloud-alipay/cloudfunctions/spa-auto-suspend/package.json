@@ -1,0 +1,6 @@
+{
+  "name": "spa-auto-suspend",
+  "version": "1.0.0",
+  "description": "Auto suspend stale spa-cus records",
+  "main": "index.js"
+}

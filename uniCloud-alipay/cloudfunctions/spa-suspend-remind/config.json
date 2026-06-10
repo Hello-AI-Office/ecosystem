@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "description": "手动/定时扫描今天需要跟进的挂起进程，发送站内消息与订阅消息",
+  "triggers": [
+    {
+      "name": "spa_suspend_remind_daily_18",
+      "type": "timer",
+      "config": "0 0 18 * * *"
+    }
+  ]
+}

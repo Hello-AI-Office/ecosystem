@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "description": "每天 18:00 扫描 spa-cus 的预约提醒并发送站内消息/订阅消息",
+  "triggers": [
+    {
+      "name": "spa_reserve_remind_daily_18",
+      "type": "timer",
+      "config": "0 0 18 * * *"
+    }
+  ]
+}

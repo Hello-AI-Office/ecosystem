@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "description": "每天凌晨 3 点自动挂起两周未更新的客户/增员",
+  "triggers": [
+    {
+      "name": "spa_auto_suspend_daily",
+      "type": "timer",
+      "config": "0 0 3 * * *"
+    }
+  ]
+}

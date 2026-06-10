@@ -1,0 +1,6 @@
+{
+  "name": "spa-suspend-remind",
+  "dependencies": {
+    "uni-subscribemsg": "file:../../../uni_modules/uni-subscribemsg/uniCloud/cloudfunctions/common/uni-subscribemsg"
+  }
+}

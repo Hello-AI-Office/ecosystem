@@ -1,0 +1,10 @@
+{
+  "name": "spa-reserve-remind",
+  "version": "1.0.1",
+  "description": "Send SPA reserve reminders via in-app message and (optionally) WeChat subscribe message",
+  "main": "index.js",
+  "dependencies": {
+    "uni-subscribemsg": "file:../../../uni_modules/uni-subscribemsg/uniCloud/cloudfunctions/common/uni-subscribemsg"
+  },
+  "extensions": {}
+}
