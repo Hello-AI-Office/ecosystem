@@ -1,26 +1,11 @@
 {
   "pages": [
-    {
-      "path": "pages/home/index",
-      "type": "home",
-      "style": {
-        "navigationStyle": "custom"
-      }
-    },
-    {
-      "path": "pages/mine/index",
-      "style": {
-        "navigationStyle": "custom"
-      }
-    },
-    {
-      "path": "pages/login/index",
-      "style": {
-        "navigationStyle": "custom"
-      }
-    }
+    "pages/home/index",
+    "pages/mine/index",
+    "pages/login/index"
   ],
-  "globalStyle": {
+  "subPackages": [],
+  "window": {
     "backgroundColor": "@bgColor",
     "backgroundColorBottom": "@bgColorBottom",
     "backgroundColorTop": "@bgColorTop",
@@ -50,5 +35,7 @@
       }
     ]
   },
-  "subPackages": []
+  "themeLocation": "theme.json",
+  "darkmode": true,
+  "usingComponents": {}
 }

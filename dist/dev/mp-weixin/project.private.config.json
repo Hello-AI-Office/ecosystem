@@ -1,6 +1,6 @@
 {
   "libVersion": "3.16.1",
-  "projectname": "mp-weixin",
+  "projectname": "src",
   "setting": {
     "urlCheck": true,
     "coverView": true,
@@ -9,13 +9,6 @@
     "preloadBackgroundData": false,
     "autoAudits": false,
     "showShadowRootInWxmlPanel": true,
-    "compileHotReLoad": true,
-    "useApiHook": true,
-    "useStaticServer": false,
-    "useLanDebug": false,
-    "showES6CompileOption": false,
-    "checkInvalidKey": true,
-    "ignoreDevUnusedFiles": true,
-    "bigPackageSizeSupport": false
+    "compileHotReLoad": true
   }
 }
